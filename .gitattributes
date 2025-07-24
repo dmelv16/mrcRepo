@@ -6,3 +6,8 @@ ml_pipeline_output/*.parquet filter=lfs diff=lfs merge=lfs -text
 ml_pipeline_output/*.json filter=lfs diff=lfs merge=lfs -text
 *.pth filter=lfs diff=lfs merge=lfs -text
 *.joblib filter=lfs diff=lfs merge=lfs -text
+artemis/*.pkl filter=lfs diff=lfs merge=lfs -text
+artemis/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+artemis/**/*.csv filter=lfs diff=lfs merge=lfs -text
+artemis/**/*.json filter=lfs diff=lfs merge=lfs -text
+artemis/**/*.parquet filter=lfs diff=lfs merge=lfs -text

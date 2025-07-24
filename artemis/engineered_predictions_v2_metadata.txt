@@ -1,0 +1,59 @@
+Feature Engineering Metadata
+==================================================
+
+CONSENSUS FEATURES (9):
+  - home_pred_std
+  - away_pred_std
+  - win_prob_std
+  - home_pred_iqr
+  - win_prob_iqr
+  - home_pred_cv
+  - away_pred_cv
+  - model_win_consensus_pct
+  - win_prob_entropy
+
+MARKET FEATURES (8):
+  - home_market_prob
+  - ensemble_value_score
+  - ensemble_value_abs
+  - max_model_value
+  - min_model_value
+  - value_score_range
+  - ensemble_spread
+  - ensemble_total
+
+CONFIDENCE FEATURES (4):
+  - ensemble_pred_magnitude
+  - ensemble_prob_certainty
+  - classifier_prob_certainty
+  - ensemble_classifier_agreement
+
+INTERACTION FEATURES (2):
+  - magnitude_certainty_interaction
+  - market_model_interaction
+
+CATEGORICAL FEATURES (9):
+  - value_category
+  - certainty_category
+  - consensus_category
+  - strong_bet_flag
+  - medium_bet_flag
+  - bet_direction
+  - conservative_bet_flag
+  - aggressive_bet_flag
+  - suggested_bet_size
+
+ML_PREDICTIONS FEATURES (2):
+  - bet_profitability_score_enhanced
+  - ml_bet_flag_enhanced
+
+KELLY FEATURES (4):
+  - home_kelly_fraction
+  - away_kelly_fraction
+  - kelly_bet_side
+  - kelly_bet_fraction
+
+
+Total engineered features: 38
+Features after correlation removal: 38
+Correlation threshold used: 0.95
