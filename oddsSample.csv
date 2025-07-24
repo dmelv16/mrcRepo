@@ -1,0 +1,141 @@
+﻿id,snapshot_time,game_id,home_team,away_team,commence_time,bookmaker,market,outcome,odds,point,created_at
+51215,53:36.0,572e61378dcce940e73987b86d7b11c6,Los Angeles Angels,Seattle Mariners,39:00.0,DraftKings,h2h,Los Angeles Angels,1.81,NULL,53:37.3
+51216,53:36.0,572e61378dcce940e73987b86d7b11c6,Los Angeles Angels,Seattle Mariners,39:00.0,DraftKings,h2h,Seattle Mariners,2.01,NULL,53:37.3
+51217,53:36.0,572e61378dcce940e73987b86d7b11c6,Los Angeles Angels,Seattle Mariners,39:00.0,DraftKings,totals,Over,1.91,9,53:37.3
+51218,53:36.0,572e61378dcce940e73987b86d7b11c6,Los Angeles Angels,Seattle Mariners,39:00.0,DraftKings,totals,Under,1.91,9,53:37.3
+51211,53:36.0,e2b36815e9915779b0c9642b248bce19,Houston Astros,Oakland Athletics,11:00.0,DraftKings,h2h,Houston Astros,1.81,NULL,53:37.3
+51212,53:36.0,e2b36815e9915779b0c9642b248bce19,Houston Astros,Oakland Athletics,11:00.0,DraftKings,h2h,Oakland Athletics,2.01,NULL,53:37.3
+51213,53:36.0,e2b36815e9915779b0c9642b248bce19,Houston Astros,Oakland Athletics,11:00.0,DraftKings,totals,Over,1.84,8,53:37.3
+51214,53:36.0,e2b36815e9915779b0c9642b248bce19,Houston Astros,Oakland Athletics,11:00.0,DraftKings,totals,Under,1.98,8,53:37.3
+51207,53:36.0,8046f443e963e8cf1cb9dbb06006ccb1,St. Louis Cardinals,San Diego Padres,46:00.0,DraftKings,h2h,San Diego Padres,2.12,NULL,53:37.3
+51208,53:36.0,8046f443e963e8cf1cb9dbb06006ccb1,St. Louis Cardinals,San Diego Padres,46:00.0,DraftKings,h2h,St. Louis Cardinals,1.73,NULL,53:37.3
+51209,53:36.0,8046f443e963e8cf1cb9dbb06006ccb1,St. Louis Cardinals,San Diego Padres,46:00.0,DraftKings,totals,Over,1.85,8,53:37.3
+51210,53:36.0,8046f443e963e8cf1cb9dbb06006ccb1,St. Louis Cardinals,San Diego Padres,46:00.0,DraftKings,totals,Under,1.97,8,53:37.3
+51203,53:36.0,5859a6b076d83bb9262f64a1eab378cf,Detroit Tigers,Toronto Blue Jays,40:00.0,DraftKings,h2h,Detroit Tigers,1.76,NULL,53:37.3
+51204,53:36.0,5859a6b076d83bb9262f64a1eab378cf,Detroit Tigers,Toronto Blue Jays,40:00.0,DraftKings,h2h,Toronto Blue Jays,2.08,NULL,53:37.3
+51205,53:36.0,5859a6b076d83bb9262f64a1eab378cf,Detroit Tigers,Toronto Blue Jays,40:00.0,DraftKings,totals,Over,1.98,9,53:37.3
+51206,53:36.0,5859a6b076d83bb9262f64a1eab378cf,Detroit Tigers,Toronto Blue Jays,40:00.0,DraftKings,totals,Under,1.84,9,53:37.3
+51199,53:36.0,a6c74dc7ae6649c4af66c038e1266610,Cleveland Guardians,Baltimore Orioles,11:00.0,DraftKings,h2h,Baltimore Orioles,1.99,NULL,53:37.3
+51200,53:36.0,a6c74dc7ae6649c4af66c038e1266610,Cleveland Guardians,Baltimore Orioles,11:00.0,DraftKings,h2h,Cleveland Guardians,1.83,NULL,53:37.3
+51201,53:36.0,a6c74dc7ae6649c4af66c038e1266610,Cleveland Guardians,Baltimore Orioles,11:00.0,DraftKings,totals,Over,1.88,9,53:37.3
+51202,53:36.0,a6c74dc7ae6649c4af66c038e1266610,Cleveland Guardians,Baltimore Orioles,11:00.0,DraftKings,totals,Under,1.93,9,53:37.3
+51195,56:27.0,3b4b416255db92920f1078da795d36eb,Texas Rangers,Oakland Athletics,05:00.0,DraftKings,h2h,Oakland Athletics,2.18,NULL,56:28.1
+51196,56:27.0,3b4b416255db92920f1078da795d36eb,Texas Rangers,Oakland Athletics,05:00.0,DraftKings,h2h,Texas Rangers,1.69,NULL,56:28.1
+51197,56:27.0,3b4b416255db92920f1078da795d36eb,Texas Rangers,Oakland Athletics,05:00.0,DraftKings,totals,Over,1.93,8.5,56:28.1
+51198,56:27.0,3b4b416255db92920f1078da795d36eb,Texas Rangers,Oakland Athletics,05:00.0,DraftKings,totals,Under,1.89,8.5,56:28.1
+51191,56:27.0,c6ac23c74068ed0fab92cf65095cd29b,Tampa Bay Rays,Chicago White Sox,36:00.0,DraftKings,h2h,Chicago White Sox,2.76,NULL,56:28.1
+51192,56:27.0,c6ac23c74068ed0fab92cf65095cd29b,Tampa Bay Rays,Chicago White Sox,36:00.0,DraftKings,h2h,Tampa Bay Rays,1.46,NULL,56:28.1
+51193,56:27.0,c6ac23c74068ed0fab92cf65095cd29b,Tampa Bay Rays,Chicago White Sox,36:00.0,DraftKings,totals,Over,1.93,9,56:28.1
+51194,56:27.0,c6ac23c74068ed0fab92cf65095cd29b,Tampa Bay Rays,Chicago White Sox,36:00.0,DraftKings,totals,Under,1.88,9,56:28.1
+51187,56:27.0,bdd533390e597f1a716fa7493305a913,Toronto Blue Jays,New York Yankees,08:00.0,DraftKings,h2h,New York Yankees,1.73,NULL,56:28.1
+51188,56:27.0,bdd533390e597f1a716fa7493305a913,Toronto Blue Jays,New York Yankees,08:00.0,DraftKings,h2h,Toronto Blue Jays,2.13,NULL,56:28.1
+51189,56:27.0,bdd533390e597f1a716fa7493305a913,Toronto Blue Jays,New York Yankees,08:00.0,DraftKings,totals,Over,1.96,8.5,56:28.1
+51190,56:27.0,bdd533390e597f1a716fa7493305a913,Toronto Blue Jays,New York Yankees,08:00.0,DraftKings,totals,Under,1.85,8.5,56:28.1
+51183,56:27.0,fe512a3562d539fe9b3ceca852c86198,Philadelphia Phillies,Boston Red Sox,06:00.0,DraftKings,h2h,Boston Red Sox,2.28,NULL,56:28.1
+51184,56:27.0,fe512a3562d539fe9b3ceca852c86198,Philadelphia Phillies,Boston Red Sox,06:00.0,DraftKings,h2h,Philadelphia Phillies,1.64,NULL,56:28.1
+51185,56:27.0,fe512a3562d539fe9b3ceca852c86198,Philadelphia Phillies,Boston Red Sox,06:00.0,DraftKings,totals,Over,1.81,8.5,56:28.1
+51186,56:27.0,fe512a3562d539fe9b3ceca852c86198,Philadelphia Phillies,Boston Red Sox,06:00.0,DraftKings,totals,Under,2.01,8.5,56:28.1
+51179,56:27.0,6295b31fa1e2d7c3a1523228f6ec71fa,Cleveland Guardians,Baltimore Orioles,41:00.0,DraftKings,h2h,Baltimore Orioles,2.09,NULL,56:28.1
+51180,56:27.0,6295b31fa1e2d7c3a1523228f6ec71fa,Cleveland Guardians,Baltimore Orioles,41:00.0,DraftKings,h2h,Cleveland Guardians,1.76,NULL,56:28.1
+51181,56:27.0,6295b31fa1e2d7c3a1523228f6ec71fa,Cleveland Guardians,Baltimore Orioles,41:00.0,DraftKings,totals,Over,1.89,8.5,56:28.1
+51182,56:27.0,6295b31fa1e2d7c3a1523228f6ec71fa,Cleveland Guardians,Baltimore Orioles,41:00.0,DraftKings,totals,Under,1.93,8.5,56:28.1
+51175,56:27.0,9c6ca488213c81da881bbe1dd86fcfa9,Los Angeles Dodgers,Minnesota Twins,11:00.0,DraftKings,h2h,Los Angeles Dodgers,1.41,NULL,56:28.1
+51176,56:27.0,9c6ca488213c81da881bbe1dd86fcfa9,Los Angeles Dodgers,Minnesota Twins,11:00.0,DraftKings,h2h,Minnesota Twins,2.95,NULL,56:28.1
+51177,56:27.0,9c6ca488213c81da881bbe1dd86fcfa9,Los Angeles Dodgers,Minnesota Twins,11:00.0,DraftKings,totals,Over,1.81,8.5,56:28.1
+51178,56:27.0,9c6ca488213c81da881bbe1dd86fcfa9,Los Angeles Dodgers,Minnesota Twins,11:00.0,DraftKings,totals,Under,2.01,8.5,56:28.1
+51167,56:27.0,52e16b215444369fa88e8e8c99b28cab,Arizona Diamondbacks,Houston Astros,41:00.0,DraftKings,h2h,Arizona Diamondbacks,1.79,NULL,56:28.1
+51168,56:27.0,52e16b215444369fa88e8e8c99b28cab,Arizona Diamondbacks,Houston Astros,41:00.0,DraftKings,h2h,Houston Astros,2.04,NULL,56:28.1
+51169,56:27.0,52e16b215444369fa88e8e8c99b28cab,Arizona Diamondbacks,Houston Astros,41:00.0,DraftKings,totals,Over,1.91,8.5,56:28.1
+51170,56:27.0,52e16b215444369fa88e8e8c99b28cab,Arizona Diamondbacks,Houston Astros,41:00.0,DraftKings,totals,Under,1.91,8.5,56:28.1
+51171,56:27.0,c3ea6563b58283cc8b9cdd8d9e82be04,Seattle Mariners,Milwaukee Brewers,41:00.0,DraftKings,h2h,Milwaukee Brewers,2.08,NULL,56:28.1
+51172,56:27.0,c3ea6563b58283cc8b9cdd8d9e82be04,Seattle Mariners,Milwaukee Brewers,41:00.0,DraftKings,h2h,Seattle Mariners,1.76,NULL,56:28.1
+51173,56:27.0,c3ea6563b58283cc8b9cdd8d9e82be04,Seattle Mariners,Milwaukee Brewers,41:00.0,DraftKings,totals,Over,1.89,7.5,56:28.1
+51174,56:27.0,c3ea6563b58283cc8b9cdd8d9e82be04,Seattle Mariners,Milwaukee Brewers,41:00.0,DraftKings,totals,Under,1.93,7.5,56:28.1
+51163,56:27.0,1823bfb8bc81961c3617666e22acab94,Colorado Rockies,St. Louis Cardinals,11:00.0,DraftKings,h2h,Colorado Rockies,2.55,NULL,56:28.1
+51164,56:27.0,1823bfb8bc81961c3617666e22acab94,Colorado Rockies,St. Louis Cardinals,11:00.0,DraftKings,h2h,St. Louis Cardinals,1.52,NULL,56:28.1
+51165,56:27.0,1823bfb8bc81961c3617666e22acab94,Colorado Rockies,St. Louis Cardinals,11:00.0,DraftKings,totals,Over,1.88,11,56:28.1
+51166,56:27.0,1823bfb8bc81961c3617666e22acab94,Colorado Rockies,St. Louis Cardinals,11:00.0,DraftKings,totals,Under,1.93,11,56:28.1
+51159,56:27.0,ff2a46700188e584faa83c63945ab87a,Chicago Cubs,Kansas City Royals,21:00.0,DraftKings,h2h,Chicago Cubs,1.67,NULL,56:28.1
+51160,56:27.0,ff2a46700188e584faa83c63945ab87a,Chicago Cubs,Kansas City Royals,21:00.0,DraftKings,h2h,Kansas City Royals,2.23,NULL,56:28.1
+51161,56:27.0,ff2a46700188e584faa83c63945ab87a,Chicago Cubs,Kansas City Royals,21:00.0,DraftKings,totals,Over,1.95,10.5,56:28.1
+51162,56:27.0,ff2a46700188e584faa83c63945ab87a,Chicago Cubs,Kansas City Royals,21:00.0,DraftKings,totals,Under,1.87,10.5,56:28.1
+51155,56:27.0,a480d989d2c2f9005491b052af4dd517,New York Mets,Los Angeles Angels,10:00.0,DraftKings,h2h,Los Angeles Angels,2.52,NULL,56:28.1
+51156,56:27.0,a480d989d2c2f9005491b052af4dd517,New York Mets,Los Angeles Angels,10:00.0,DraftKings,h2h,New York Mets,1.53,NULL,56:28.1
+51157,56:27.0,a480d989d2c2f9005491b052af4dd517,New York Mets,Los Angeles Angels,10:00.0,DraftKings,totals,Over,1.83,8.5,56:28.1
+51158,56:27.0,a480d989d2c2f9005491b052af4dd517,New York Mets,Los Angeles Angels,10:00.0,DraftKings,totals,Under,1.99,8.5,56:28.1
+51151,56:27.0,fc04af0de0e993fbbe630cdbda9a484b,Pittsburgh Pirates,Detroit Tigers,36:00.0,DraftKings,h2h,Detroit Tigers,1.63,NULL,56:28.1
+51152,56:27.0,fc04af0de0e993fbbe630cdbda9a484b,Pittsburgh Pirates,Detroit Tigers,36:00.0,DraftKings,h2h,Pittsburgh Pirates,2.29,NULL,56:28.1
+51153,56:27.0,fc04af0de0e993fbbe630cdbda9a484b,Pittsburgh Pirates,Detroit Tigers,36:00.0,DraftKings,totals,Over,1.83,8.5,56:28.1
+51154,56:27.0,fc04af0de0e993fbbe630cdbda9a484b,Pittsburgh Pirates,Detroit Tigers,36:00.0,DraftKings,totals,Under,2,8.5,56:28.1
+51147,56:27.0,38b1d237d12dcc9c89763c12a65bdbe1,Atlanta Braves,San Francisco Giants,16:00.0,DraftKings,h2h,Atlanta Braves,1.56,NULL,56:28.1
+51148,56:27.0,38b1d237d12dcc9c89763c12a65bdbe1,Atlanta Braves,San Francisco Giants,16:00.0,DraftKings,h2h,San Francisco Giants,2.47,NULL,56:28.1
+51149,56:27.0,38b1d237d12dcc9c89763c12a65bdbe1,Atlanta Braves,San Francisco Giants,16:00.0,DraftKings,totals,Over,1.86,8,56:28.1
+51150,56:27.0,38b1d237d12dcc9c89763c12a65bdbe1,Atlanta Braves,San Francisco Giants,16:00.0,DraftKings,totals,Under,1.96,8,56:28.1
+51143,56:27.0,84f30d46434c51566e8f1ab1c0a03872,Miami Marlins,San Diego Padres,11:00.0,DraftKings,h2h,Miami Marlins,2.22,NULL,56:28.1
+51144,56:27.0,84f30d46434c51566e8f1ab1c0a03872,Miami Marlins,San Diego Padres,11:00.0,DraftKings,h2h,San Diego Padres,1.68,NULL,56:28.1
+51145,56:27.0,84f30d46434c51566e8f1ab1c0a03872,Miami Marlins,San Diego Padres,11:00.0,DraftKings,totals,Over,1.94,8,56:28.1
+51146,56:27.0,84f30d46434c51566e8f1ab1c0a03872,Miami Marlins,San Diego Padres,11:00.0,DraftKings,totals,Under,1.87,8,56:28.1
+51139,56:27.0,15234b218829df26a0cc31e23ac81548,Washington Nationals,Cincinnati Reds,06:00.0,DraftKings,h2h,Cincinnati Reds,1.7,NULL,56:28.1
+51140,56:27.0,15234b218829df26a0cc31e23ac81548,Washington Nationals,Cincinnati Reds,06:00.0,DraftKings,h2h,Washington Nationals,2.18,NULL,56:28.1
+51141,56:27.0,15234b218829df26a0cc31e23ac81548,Washington Nationals,Cincinnati Reds,06:00.0,DraftKings,totals,Over,1.88,8.5,56:28.1
+51142,56:27.0,15234b218829df26a0cc31e23ac81548,Washington Nationals,Cincinnati Reds,06:00.0,DraftKings,totals,Under,1.93,8.5,56:28.1
+51135,58:29.0,d2b3463ab66e3fb1fd7b478ba0264cae,Los Angeles Dodgers,Minnesota Twins,11:00.0,DraftKings,h2h,Los Angeles Dodgers,1.44,NULL,58:30.0
+51136,58:29.0,d2b3463ab66e3fb1fd7b478ba0264cae,Los Angeles Dodgers,Minnesota Twins,11:00.0,DraftKings,h2h,Minnesota Twins,2.82,NULL,58:30.0
+51137,58:29.0,d2b3463ab66e3fb1fd7b478ba0264cae,Los Angeles Dodgers,Minnesota Twins,11:00.0,DraftKings,totals,Over,1.91,8.5,58:30.0
+51138,58:29.0,d2b3463ab66e3fb1fd7b478ba0264cae,Los Angeles Dodgers,Minnesota Twins,11:00.0,DraftKings,totals,Under,1.9,8.5,58:30.0
+51127,58:29.0,bc7de0d32f8fca35ab010384abbb8629,Arizona Diamondbacks,Houston Astros,41:00.0,DraftKings,h2h,Arizona Diamondbacks,2.07,NULL,58:30.0
+51128,58:29.0,bc7de0d32f8fca35ab010384abbb8629,Arizona Diamondbacks,Houston Astros,41:00.0,DraftKings,h2h,Houston Astros,1.76,NULL,58:30.0
+51129,58:29.0,bc7de0d32f8fca35ab010384abbb8629,Arizona Diamondbacks,Houston Astros,41:00.0,DraftKings,totals,Over,1.95,8.5,58:30.0
+51130,58:29.0,bc7de0d32f8fca35ab010384abbb8629,Arizona Diamondbacks,Houston Astros,41:00.0,DraftKings,totals,Under,1.87,8.5,58:30.0
+51131,58:29.0,6527892b815036107e6baa7a206f9150,Seattle Mariners,Milwaukee Brewers,41:00.0,DraftKings,h2h,Milwaukee Brewers,2.04,NULL,58:30.0
+51132,58:29.0,6527892b815036107e6baa7a206f9150,Seattle Mariners,Milwaukee Brewers,41:00.0,DraftKings,h2h,Seattle Mariners,1.79,NULL,58:30.0
+51133,58:29.0,6527892b815036107e6baa7a206f9150,Seattle Mariners,Milwaukee Brewers,41:00.0,DraftKings,totals,Over,1.79,6.5,58:30.0
+51134,58:29.0,6527892b815036107e6baa7a206f9150,Seattle Mariners,Milwaukee Brewers,41:00.0,DraftKings,totals,Under,2.03,6.5,58:30.0
+51123,58:29.0,83b9f23cbf51e409f72330c6f65d6e9d,Colorado Rockies,St. Louis Cardinals,41:00.0,DraftKings,h2h,Colorado Rockies,2.29,NULL,58:30.0
+51124,58:29.0,83b9f23cbf51e409f72330c6f65d6e9d,Colorado Rockies,St. Louis Cardinals,41:00.0,DraftKings,h2h,St. Louis Cardinals,1.64,NULL,58:30.0
+51125,58:29.0,83b9f23cbf51e409f72330c6f65d6e9d,Colorado Rockies,St. Louis Cardinals,41:00.0,DraftKings,totals,Over,1.87,12,58:30.0
+51126,58:29.0,83b9f23cbf51e409f72330c6f65d6e9d,Colorado Rockies,St. Louis Cardinals,41:00.0,DraftKings,totals,Under,1.95,12,58:30.0
+51115,58:29.0,8c9042132db849fda4be45ab47e84ef1,Chicago Cubs,Kansas City Royals,06:00.0,DraftKings,h2h,Chicago Cubs,1.37,NULL,58:30.0
+51116,58:29.0,8c9042132db849fda4be45ab47e84ef1,Chicago Cubs,Kansas City Royals,06:00.0,DraftKings,h2h,Kansas City Royals,3.13,NULL,58:30.0
+51117,58:29.0,8c9042132db849fda4be45ab47e84ef1,Chicago Cubs,Kansas City Royals,06:00.0,DraftKings,totals,Over,1.98,9,58:30.0
+51118,58:29.0,8c9042132db849fda4be45ab47e84ef1,Chicago Cubs,Kansas City Royals,06:00.0,DraftKings,totals,Under,1.84,9,58:30.0
+51119,58:29.0,518473ae31eead2043ca9e70a9ec5218,Texas Rangers,Oakland Athletics,06:00.0,DraftKings,h2h,Oakland Athletics,3.08,NULL,58:30.0
+51120,58:29.0,518473ae31eead2043ca9e70a9ec5218,Texas Rangers,Oakland Athletics,06:00.0,DraftKings,h2h,Texas Rangers,1.38,NULL,58:30.0
+51121,58:29.0,518473ae31eead2043ca9e70a9ec5218,Texas Rangers,Oakland Athletics,06:00.0,DraftKings,totals,Over,1.87,7.5,58:30.0
+51122,58:29.0,518473ae31eead2043ca9e70a9ec5218,Texas Rangers,Oakland Athletics,06:00.0,DraftKings,totals,Under,1.95,7.5,58:30.0
+51111,58:29.0,262de610cfd7d31eab52f5c42a719fea,Tampa Bay Rays,Chicago White Sox,36:00.0,DraftKings,h2h,Chicago White Sox,2.88,NULL,58:30.0
+51112,58:29.0,262de610cfd7d31eab52f5c42a719fea,Tampa Bay Rays,Chicago White Sox,36:00.0,DraftKings,h2h,Tampa Bay Rays,1.43,NULL,58:30.0
+51113,58:29.0,262de610cfd7d31eab52f5c42a719fea,Tampa Bay Rays,Chicago White Sox,36:00.0,DraftKings,totals,Over,1.83,8,58:30.0
+51114,58:29.0,262de610cfd7d31eab52f5c42a719fea,Tampa Bay Rays,Chicago White Sox,36:00.0,DraftKings,totals,Under,1.99,8,58:30.0
+51107,58:29.0,c845bcc9b029a75b4010744bde751069,Atlanta Braves,San Francisco Giants,16:00.0,DraftKings,h2h,Atlanta Braves,1.89,NULL,58:30.0
+51108,58:29.0,c845bcc9b029a75b4010744bde751069,Atlanta Braves,San Francisco Giants,16:00.0,DraftKings,h2h,San Francisco Giants,1.93,NULL,58:30.0
+51109,58:29.0,c845bcc9b029a75b4010744bde751069,Atlanta Braves,San Francisco Giants,16:00.0,DraftKings,totals,Over,1.94,9.5,58:30.0
+51110,58:29.0,c845bcc9b029a75b4010744bde751069,Atlanta Braves,San Francisco Giants,16:00.0,DraftKings,totals,Under,1.88,9.5,58:30.0
+51103,58:29.0,2ee013146af023c985c025c66a483e05,New York Mets,Los Angeles Angels,11:00.0,DraftKings,h2h,Los Angeles Angels,2.44,NULL,58:30.0
+51104,58:29.0,2ee013146af023c985c025c66a483e05,New York Mets,Los Angeles Angels,11:00.0,DraftKings,h2h,New York Mets,1.57,NULL,58:30.0
+51105,58:29.0,2ee013146af023c985c025c66a483e05,New York Mets,Los Angeles Angels,11:00.0,DraftKings,totals,Over,1.97,9.5,58:30.0
+51106,58:29.0,2ee013146af023c985c025c66a483e05,New York Mets,Los Angeles Angels,11:00.0,DraftKings,totals,Under,1.85,9.5,58:30.0
+51099,58:29.0,4037ed43e7905f4540eba4c83a638b83,Toronto Blue Jays,New York Yankees,08:00.0,DraftKings,h2h,New York Yankees,2.08,NULL,58:30.0
+51100,58:29.0,4037ed43e7905f4540eba4c83a638b83,Toronto Blue Jays,New York Yankees,08:00.0,DraftKings,h2h,Toronto Blue Jays,1.76,NULL,58:30.0
+51101,58:29.0,4037ed43e7905f4540eba4c83a638b83,Toronto Blue Jays,New York Yankees,08:00.0,DraftKings,totals,Over,1.91,9,58:30.0
+51102,58:29.0,4037ed43e7905f4540eba4c83a638b83,Toronto Blue Jays,New York Yankees,08:00.0,DraftKings,totals,Under,1.91,9,58:30.0
+51091,58:29.0,db1c583a2bd3f21fe8ec30cc589eeb91,Philadelphia Phillies,Boston Red Sox,46:00.0,DraftKings,h2h,Boston Red Sox,2.67,NULL,58:30.0
+51092,58:29.0,db1c583a2bd3f21fe8ec30cc589eeb91,Philadelphia Phillies,Boston Red Sox,46:00.0,DraftKings,h2h,Philadelphia Phillies,1.49,NULL,58:30.0
+51093,58:29.0,db1c583a2bd3f21fe8ec30cc589eeb91,Philadelphia Phillies,Boston Red Sox,46:00.0,DraftKings,totals,Over,1.92,8.5,58:30.0
+51094,58:29.0,db1c583a2bd3f21fe8ec30cc589eeb91,Philadelphia Phillies,Boston Red Sox,46:00.0,DraftKings,totals,Under,1.9,8.5,58:30.0
+51095,58:29.0,3a3b44134650ac62f5f358ccc4925b33,Washington Nationals,Cincinnati Reds,46:00.0,DraftKings,h2h,Cincinnati Reds,1.7,NULL,58:30.0
+51096,58:29.0,3a3b44134650ac62f5f358ccc4925b33,Washington Nationals,Cincinnati Reds,46:00.0,DraftKings,h2h,Washington Nationals,2.17,NULL,58:30.0
+51097,58:29.0,3a3b44134650ac62f5f358ccc4925b33,Washington Nationals,Cincinnati Reds,46:00.0,DraftKings,totals,Over,1.99,9,58:30.0
+51098,58:29.0,3a3b44134650ac62f5f358ccc4925b33,Washington Nationals,Cincinnati Reds,46:00.0,DraftKings,totals,Under,1.83,9,58:30.0
+51079,58:29.0,4631fb2aef9f1e508cb1333938a645d9,Cleveland Guardians,Baltimore Orioles,41:00.0,DraftKings,h2h,Baltimore Orioles,2.22,NULL,58:30.0
+51080,58:29.0,4631fb2aef9f1e508cb1333938a645d9,Cleveland Guardians,Baltimore Orioles,41:00.0,DraftKings,h2h,Cleveland Guardians,1.68,NULL,58:30.0
+51081,58:29.0,4631fb2aef9f1e508cb1333938a645d9,Cleveland Guardians,Baltimore Orioles,41:00.0,DraftKings,totals,Over,1.92,8.5,58:30.0
+51082,58:29.0,4631fb2aef9f1e508cb1333938a645d9,Cleveland Guardians,Baltimore Orioles,41:00.0,DraftKings,totals,Under,1.9,8.5,58:30.0
+51083,58:29.0,e6afbabe221c3af3aeb6bf814c04840f,Pittsburgh Pirates,Detroit Tigers,41:00.0,DraftKings,h2h,Detroit Tigers,1.67,NULL,58:30.0
+51084,58:29.0,e6afbabe221c3af3aeb6bf814c04840f,Pittsburgh Pirates,Detroit Tigers,41:00.0,DraftKings,h2h,Pittsburgh Pirates,2.23,NULL,58:30.0
+51085,58:29.0,e6afbabe221c3af3aeb6bf814c04840f,Pittsburgh Pirates,Detroit Tigers,41:00.0,DraftKings,totals,Over,1.92,8,58:30.0
+51086,58:29.0,e6afbabe221c3af3aeb6bf814c04840f,Pittsburgh Pirates,Detroit Tigers,41:00.0,DraftKings,totals,Under,1.9,8,58:30.0
+51087,58:29.0,a98181034ad8e08f6a11269f46af9bd6,Miami Marlins,San Diego Padres,41:00.0,DraftKings,h2h,Miami Marlins,1.87,NULL,58:30.0
+51088,58:29.0,a98181034ad8e08f6a11269f46af9bd6,Miami Marlins,San Diego Padres,41:00.0,DraftKings,h2h,San Diego Padres,1.95,NULL,58:30.0
+51089,58:29.0,a98181034ad8e08f6a11269f46af9bd6,Miami Marlins,San Diego Padres,41:00.0,DraftKings,totals,Over,1.87,8,58:30.0
+51090,58:29.0,a98181034ad8e08f6a11269f46af9bd6,Miami Marlins,San Diego Padres,41:00.0,DraftKings,totals,Under,1.95,8,58:30.0
