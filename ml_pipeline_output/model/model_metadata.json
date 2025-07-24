@@ -1,0 +1,49 @@
+{
+  "version": "2.0.0",
+  "training_date": "2025-06-26T20:33:45.828268",
+  "model_type": "resnet",
+  "use_attention": true,
+  "best_params": {
+    "lr": 0.0005,
+    "weight_decay": 0.0005,
+    "dropout_rate": 0.35,
+    "outcome_weight": 0.3,
+    "l1_lambda": 0.0005,
+    "hidden_dim": 96,
+    "num_blocks": 1,
+    "batch_size": 512
+  },
+  "feature_count": 1092,
+  "final_metrics": {
+    "overall": {
+      "mse": 7.451412200927734,
+      "rmse": 2.7297275066375732,
+      "mae": 2.171999216079712,
+      "mape": 2159124480.0,
+      "median_ae": 1.8511394262313843
+    },
+    "team_specific": {
+      "home_rmse": 2.6630184650421143,
+      "away_rmse": 2.79484486579895,
+      "home_mae": 2.12591814994812,
+      "away_mae": 2.218080520629883
+    },
+    "outcome": {
+      "accuracy": 0.6705850921720545,
+      "precision": 0.6772088353413654,
+      "recall": 0.6957194430118618,
+      "f1": 0.6863393538539811,
+      "matthews_corr": 0.33977355891559113
+    },
+    "totals": {
+      "total_runs_rmse": 3.9203779697418213,
+      "total_runs_mae": 3.1092209815979004,
+      "over_under_accuracy": 0.6358535933742987
+    },
+    "calibration": {
+      "mean_error": -0.046410951763391495,
+      "std_error": 2.72933292388916,
+      "skewness": -0.6252427697181702,
+      "kurtosis": 0.21090960502624512,
+      "90_percent_interval": [
+        

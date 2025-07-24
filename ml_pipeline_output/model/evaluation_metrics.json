@@ -1,0 +1,132 @@
+{
+  "overall": {
+    "mse": 7.451412200927734,
+    "rmse": 2.7297275066375732,
+    "mae": 2.171999216079712,
+    "mape": 2159124480.0,
+    "median_ae": 1.8511394262313843
+  },
+  "team_specific": {
+    "home_rmse": 2.6630184650421143,
+    "away_rmse": 2.79484486579895,
+    "home_mae": 2.12591814994812,
+    "away_mae": 2.218080520629883
+  },
+  "outcome": {
+    "accuracy": 0.6705850921720545,
+    "precision": 0.6772088353413654,
+    "recall": 0.6957194430118618,
+    "f1": 0.6863393538539811,
+    "matthews_corr": 0.33977355891559113
+  },
+  "totals": {
+    "total_runs_rmse": 3.9203779697418213,
+    "total_runs_mae": 3.1092209815979004,
+    "over_under_accuracy": 0.6358535933742987
+  },
+  "calibration": {
+    "mean_error": -0.046410951763391495,
+    "std_error": 2.72933292388916,
+    "skewness": -0.6252427697181702,
+    "kurtosis": 0.21090960502624512,
+    "90_percent_interval": "(np.float32(-5.115872), np.float32(3.8001833))",
+    "95_percent_interval": "(np.float32(-6.3627167), np.float32(4.276377))"
+  },
+  "statistical": {
+    "r_squared": 0.1742197871208191,
+    "adjusted_r_squared": -0.16606402397155762,
+    "explained_variance": 0.17445850372314453,
+    "spearman_correlation": 0.4103523449933356,
+    "pearson_correlation": 0.4181343300351425
+  },
+  "betting": {
+    "run_line_accuracy": 0.6903553299492385,
+    "favorite_win_rate": 0.809255079006772,
+    "underdog_identification": 0.5433734939759036
+  },
+  "confidence_bins": [
+    {
+      "margin_range": "0-0.5",
+      "count": 830,
+      "accuracy": 0.5433734939759036,
+      "avg_error": 2.150031566619873
+    },
+    {
+      "margin_range": "0.5-1",
+      "count": 755,
+      "accuracy": 0.633112582781457,
+      "avg_error": 2.2301454544067383
+    },
+    {
+      "margin_range": "1-1.5",
+      "count": 722,
+      "accuracy": 0.6481994459833795,
+      "avg_error": 2.184882640838623
+    },
+    {
+      "margin_range": "1.5-2",
+      "count": 550,
+      "accuracy": 0.72,
+      "avg_error": 2.198396921157837
+    },
+    {
+      "margin_range": "2-3",
+      "count": 554,
+      "accuracy": 0.7743682310469314,
+      "avg_error": 2.1275832653045654
+    },
+    {
+      "margin_range": "3-inf",
+      "count": 332,
+      "accuracy": 0.8674698795180723,
+      "avg_error": 2.0970563888549805
+    }
+  ],
+  "error_analysis": {
+    "worst_predictions": {
+      "indices": [
+        2018,
+        2359,
+        657,
+        865,
+        2561,
+        1120,
+        2545,
+        1010,
+        1852,
+        3400
+      ],
+      "errors": [
+        9.256219863891602,
+        9.498034477233887,
+        9.563314437866211,
+        9.638421058654785,
+        9.743001937866211,
+        10.037049293518066,
+        10.051087379455566,
+        10.064168930053711,
+        10.43126106262207,
+        10.614701271057129
+      ]
+    },
+    "systematic_bias": {
+      "home_bias": 0.04527409374713898,
+      "away_bias": -0.13809598982334137,
+      "total_bias": -0.09282190352678299
+    },
+    "error_percentiles": {
+      "p50": 1.8511394262313843,
+      "p75": 3.080535888671875,
+      "p90": 4.330371856689453,
+      "p95": 5.299781322479248,
+      "p99": 7.5971479415893555
+    }
+  },
+  "baseball_specific": {
+    "one_run_game_accuracy": 0.5852713178294574,
+    "blowout_precision": 0.5333333333333333,
+    "high_scoring_accuracy": 0.693026983702912,
+    "low_scoring_accuracy": 0.7093240716003206,
+    "shutout_prediction": 0.8768367619556505
+  }
+}

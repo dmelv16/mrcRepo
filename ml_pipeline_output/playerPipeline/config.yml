@@ -1,0 +1,30 @@
+database:
+  server: "DESKTOP-J9IV3OH"
+  database: "StatcastDB"
+  username: "mlb_user"
+  password: "mlbAdmin"
+  driver: "ODBC Driver 17 for SQL Server"
+
+features:
+  rolling_windows: [7, 15, 30, 90]
+  min_plate_appearances: 20
+
+paths:
+  models: "C:/Users/DMelv/Documents/bettingModelBaseball/apiBaseball/pipeline/ml_pipeline_output/playerPipeline/models/mlb_predictions.pkl"
+  cache: "C:/Users/DMelv/Documents/bettingModelBaseball/apiBaseball/pipeline/ml_pipeline_output/playerPipeline/cache/"
+  logs: "C:/Users/DMelv/Documents/bettingModelBaseball/apiBaseball/pipeline/ml_pipeline_output/playerPipeline/logs/"
+
+training:
+  train_end_date: "2022-12-31" 
+  val_start_date: "2023-01-01" 
+  val_end_date: "2024-12-31"
+  
+models:
+  hits:
+    type: "regression"
+  home_run:
+    type: "classification"
+  strikeouts:
+    type: "regression"
+  nrfi:
+    type: "classification"
